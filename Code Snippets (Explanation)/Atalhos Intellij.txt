@@ -1,0 +1,6 @@
+- CTRL + SHIFT + A → Pesquisa geral
+- ALT + INSERT → Criar construtor, get/set, etc.
+- CTRL + ALT + L → Auto-indentação
+- // → Comentário
+- /* Comentário ... */ → Comentário para várias linhas
+- /** Comentário documentação / → Serve para deixar a explicação para documentação
